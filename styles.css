@@ -1,2 +1,28 @@
+table , th, td{
+	border:solid black 1px;
+	border-collapse:collapse;
+}
 
-/* Your CSS Code here. */
+.row1{
+	background-color:red;
+	color:white;
+}
+.row2{
+	background-color:orangered;
+	color:white;
+}
+.row3{
+	background-color:pink;
+	color:black;
+}
+.row4{
+	background-color:lightgrey;
+	color:black;
+}
+
+td{
+	width:100px;
+}
+th{
+	width:100px
+}
